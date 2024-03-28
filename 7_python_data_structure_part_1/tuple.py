@@ -23,3 +23,4 @@ fruits_list.append("grape")
 print(fruits_list)
 fruits = tuple(fruits_list)
 print(fruits)
+
