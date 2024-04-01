@@ -1,4 +1,10 @@
 class Vehicle:
+
+    name = ""
+    brand = ""
+    color = ""
+    year = ""
+    origin = ""
     
     def __init__(self, v_name, v_brand, v_color, v_year, v_origin):
         self.name = v_name
